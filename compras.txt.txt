@@ -1,0 +1,6 @@
+compras:
+
+manteca
+harina
+huevos
+jugo
